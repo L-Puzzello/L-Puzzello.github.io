@@ -1,0 +1,36 @@
+title: Laura Puzzello's Website
+author:
+  name: Laura Puzzello
+  email: laura.puzzello@monash.edu
+
+description: >
+  Laura Puzzello is an Associate Professor at Monash University. 
+  This website displays here academic work and other various resources.
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+sass:
+  quiet_deps: true
+  silence_deprecations: [import]
+
+minima:
+  skin: auto
+
+  nav_pages:
+    - index.md
+    - research.md
+    - cv.md
+    - media-resources.md
+
+  hide_site_feed_link: true
+  social_links:
+    - title: Laura Puzzello's GitHub
+      icon: github
+      url: "https://github.com/L-Puzzello"
+    - title: Laura Puzzello's Twitter
+      icon: x-twitter
+      url: "https://x.com/Lpuzzell"
