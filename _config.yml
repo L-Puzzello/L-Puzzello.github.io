@@ -36,3 +36,6 @@ minima:
     - title: Laura Puzzello's LinkedIn
       icon: linkedin
       url: "https://www.linkedin.com/in/puzzello-laura-b81732b"
+    - title: Laura Puzzello's Bluesky
+      icon: bluesky
+      url: "https://bsky.app/profile/lpuzzell.bsky.social"
