@@ -6,7 +6,7 @@ permalink: /research/
 
 #### Peer-Reviewed Publications
 
-Growth Volatility and Trade: Market Diversification vs. Production Specialization. Journal of Economic Behavior and Organization, 225, 252-271, 2024. (with Adina Ardelean and Miguel León-Ledesma) [Full-text] [Online Appendix] [Code and data checks]
+Growth Volatility and Trade: Market Diversification vs. Production Specialization. _Journal of Economic Behavior and Organization_, 225, 252-271, 2024. (with [Adina Ardelean](https://sites.google.com/site/adinaardelean/home) and [Miguel León-Ledesma](https://sites.google.com/site/miguelleonledesmaspernonalsite/Home?authuser=0)) [[Full-text](https://www.sciencedirect.com/science/article/pii/S0167268124002592)] [[Online Appendix](https://drive.google.com/file/d/16WVEM0u7GcLDS5N-0cwncVutP_TrZlkh/view)] [[Code and data checks](https://l-puzzello.github.io/indstat-TPP/)]
 
 When are Instruments Generated from Geographic Characteristics in Bilateral Relationships Invalid? Journal of Applied Econometrics, 36 (4), 437-452, 2021. (with Sabine Deij and Jakob Madsen) [Full-text and Online Appendix]
 

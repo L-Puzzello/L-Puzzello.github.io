@@ -23,16 +23,18 @@ Scroll down if you are interested in one particular topic.
 
 Please note that I sourced most of the content below from the following websites, which you may wish to explore independently:
 
-- Marginal Revolution University:
-- Globalization Curriculum
-- EconGoneCountry
-- Econimate
-- Economics Media Library
-- STORYLINE (Games)
+- [Marginal Revolution University](https://mru.org/):
+  - [Globalization Curriculum](https://learn.mru.org/lesson-plans/intro-globalization-unit/)
+- [EconGoneCountry](http://www.econgonecountry.com/)
+- [Econimate](https://www.econimate.com/)
+- [Economics Media Library](https://econ.video/)
+- [STORYLINE](https://storylinegame.com/) (Games)
 
 
 
 If you have any feedback or additional media resources to share, please send me an email at laura.puzzello@monash.edu.
 
+
+### Globalisation
 
 {% include_relative _layouts/_elements/embedded_youtube_video.html embedded_video_url="https://www.youtube.com/embed/PPZZQ0fmI2Y?si=gAMmZDUdw_Inm2sq" %}
