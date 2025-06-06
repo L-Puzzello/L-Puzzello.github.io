@@ -33,7 +33,16 @@ independently:
 
 If you have any feedback or additional media resources to share, please send me an email at laura.puzzello@monash.edu.
 
-### Globalisation
+## Resources: Table of Contents
+1. [Globalisation](#globalisation)
+2. [Trade and Technology](#trade-and-technology)
+3. [Trade and Resources (short-run)](#trade-and-resources-short-run)
+4. [International Movement of Labour](#international-movement-of-labour)
+5. [Trade Policy](#trade-policy)
+6. [National and International Account](#national-and-international-account)
+7. [Foreign Exchange Rates](#foreign-exchange-rates)
+
+### Globalisation <a name="globalisation"/>
 
 I use the resources below in the first week of my unit when I provide an overview of globalisation and its history.
 
@@ -69,7 +78,7 @@ embedded_video_url="https://www.youtube.com/embed/SNXMAu5XA1Q?si=avqKsdC93d-OtK7
 
 - [Covid-19 blow to world trade is a heavy one. 2020](https://www.economist.com/briefing/2020/05/14/covid-19s-blow-to-world-trade-is-a-heavy-one)
 
-### Globalisation
+### Trade and Technology <a name="trade-and-technology"/>
 
 I use the resources below in the week I cover the Ricardian model of trade.
 
@@ -101,7 +110,7 @@ embedded_video_url="https://www.youtube.com/embed/ui5ruDbpyy0?si=D2jFLV3wxW_LC0d
 - [What wage inflation looks like](https://www.economist.com/free-exchange/2011/09/23/what-wage-inflation-looks-like) (
   The Economist, 2011)
 
-### Trade and Resources (short-run)
+### Trade and Resources (short-run) <a name="trade-and-resources-short-run"/>
 
 I use the resources below in the week I cover the specific-factors model of trade.
 
@@ -122,7 +131,7 @@ embedded_video_url="https://www.youtube.com/embed/0FjddxnLMmY?si=XY6Ie-w5_G4DB40
 
 - [One of the 6 Biggest Ideas in Economics: the Stolper-Samuelson Theorem](https://www.economist.com/sites/default/files/econbriefs.pdf)
 
-### International Movement of Labour
+### International Movement of Labour <a name="international-movement-of-labour"/>
 
 #### Clips
 
@@ -145,7 +154,7 @@ embedded_video_url="https://www.youtube.com/embed/KWhnIy4obv8?si=1jD6ZLa8ppjUzdq
 
 - [Ryan Hamilton-Making it in NY](https://econ.video/2018/09/19/ryan-hamilton-making-it-in-new-york/)
 
-### Trade Policy
+### Trade Policy <a name="trade-policy"/>
 
 - How Companies Design Products To Avoid Tariffs
 
@@ -190,7 +199,7 @@ embedded_video_url="https://www.youtube.com/embed/rw7PUrgU3N0?si=T4cxCZeCdICFUXp
 - [Trump's trade war timeline—an updated guide](https://www.piie.com/blogs/trade-and-investment-policy-watch/2018/trumps-trade-war-timeline-date-guide) (
   Peterson Institute for International Economics)
 
-### National and International Account
+### National and International Account <a name="national-and-international-account"/>
 
 #### Clips
 
@@ -209,7 +218,7 @@ embedded_video_url="https://www.youtube.com/embed/eM9OxAdOT0Y?si=HGOUq1x4We1LyHU
 {% include_relative _layouts/_elements/embedded_video.html
 embedded_video_url="https://www.youtube.com/embed/FrunOtAIEBM?si=9DI37ydxuMDLnRQ3" %}
 
-### Foreign Exchange Rates
+### Foreign Exchange Rates <a name="foreign-exchange-rates"/>
 
 #### Clips
 
