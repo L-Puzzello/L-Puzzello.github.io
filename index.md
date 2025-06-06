@@ -39,4 +39,4 @@ University. [Here]({{ '/media-resources/' | relative_url }}) you will find the m
 students. Feel free to use them or to contact me with additional resources to share publicly.
 
 Reach out via e-mail at [laura.puzzello@monash.edu](mailto:laura.puzzello@monash.edu). You can find me on
-Twitter [@Lpuzzell](https://x.com/Lpuzzell) and on GitHub [@L-Puzzello](https://github.com/L-Puzzello).
+Twitter [@Lpuzzell](https://x.com/Lpuzzell) and on GitHub [@L-Puzzello](https://github.com/L-Puzzello) or the other links in the footer.
