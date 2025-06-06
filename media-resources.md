@@ -52,7 +52,7 @@ I use the resources below in the first week of my unit when I provide an overvie
   the [MRU Globalisation Curriculum](https://learn.mru.org/lesson-plans/intro-globalization-unit/))
 
 {% include_relative _layouts/_elements/embedded_video.html
-embedded_video_url="https://www.youtube.com/embed/PPZZQ0fmI2Y?si=gAMmZDUdw_Inm2sq" %}
+embedded_video_url="https://www.youtube.com/embed/PPZZQ0fmI2Y" %}
 
 - Gains from Trade: Click [here](https://econ.video/2018/05/14/boss-baby-gains-from-trade/#more-1967) to watch a funny
   short video even my kids loved!
@@ -60,17 +60,17 @@ embedded_video_url="https://www.youtube.com/embed/PPZZQ0fmI2Y?si=gAMmZDUdw_Inm2s
 - Trade creates _value_—watch why!
 
 {% include_relative _layouts/_elements/embedded_video.html
-embedded_video_url="https://www.youtube.com/embed/sdUHjTFnSxw?si=PVg2pU733gMe0jvW" %}
+embedded_video_url="https://www.youtube.com/embed/sdUHjTFnSxw" %}
 
 - TED (short) Talk: How Containerization Shaped the Modern World
 
 {% include_relative _layouts/_elements/embedded_video.html
-embedded_video_url="https://www.youtube.com/embed/Gn7IoT_WSRA?si=CufNTTOjMfln4Jol" %}
+embedded_video_url="https://www.youtube.com/embed/Gn7IoT_WSRA" %}
 
 - Are we better off if we buy local?
 
 {% include_relative _layouts/_elements/embedded_video.html
-embedded_video_url="https://www.youtube.com/embed/SNXMAu5XA1Q?si=avqKsdC93d-OtK7C" %}
+embedded_video_url="https://www.youtube.com/embed/SNXMAu5XA1Q" %}
 
 #### Briefings
 
@@ -87,12 +87,12 @@ I use the resources below in the week I cover the Ricardian model of trade.
 - Comparative Advantage and the Tragedy of Tasmania
 
 {% include_relative _layouts/_elements/embedded_video.html
-embedded_video_url="https://www.youtube.com/embed/cwx9fZOL81c?si=_Q8q_8Ajp9hCO0pg" %}
+embedded_video_url="https://www.youtube.com/embed/cwx9fZOL81c" %}
 
 - Fair Trade: Does it help poor workers? (Stressing the relationship between real wages and labor productivity!)
 
 {% include_relative _layouts/_elements/embedded_video.html
-embedded_video_url="https://www.youtube.com/embed/ui5ruDbpyy0?si=D2jFLV3wxW_LC0dA" %}
+embedded_video_url="https://www.youtube.com/embed/ui5ruDbpyy0" %}
 
 - Click [here](https://econ.video/2017/10/02/channel-4-news-a-grocery-store-without-foreign-products/) to see what (
   sudden) autarky would look like
@@ -119,13 +119,13 @@ I use the resources below in the week I cover the specific-factors model of trad
 - Are there winners and losers from globalisation?
 
 {% include_relative _layouts/_elements/embedded_video.html
-embedded_video_url="https://www.youtube.com/embed/ZKMbuTV1Ne8?si=NhVpkQohM1shUI8H" %}
+embedded_video_url="https://www.youtube.com/embed/ZKMbuTV1Ne8" %}
 
 - Labour-abundant countries tend to use more labor-intensive techniques of production (
   source: [Economics Media Library](https://econ.video/))
 
 {% include_relative _layouts/_elements/embedded_video.html
-embedded_video_url="https://www.youtube.com/embed/0FjddxnLMmY?si=XY6Ie-w5_G4DB40a" %}
+embedded_video_url="https://www.youtube.com/embed/0FjddxnLMmY" %}
 
 #### Briefings
 
@@ -138,17 +138,17 @@ embedded_video_url="https://www.youtube.com/embed/0FjddxnLMmY?si=XY6Ie-w5_G4DB40
 - What is the Economic Impact of Immigration?
 
 {% include_relative _layouts/_elements/embedded_video.html
-embedded_video_url="https://www.youtube.com/embed/_uOORAsQ6nE?si=JlVsSjaFN3GAYj0a" %}
+embedded_video_url="https://www.youtube.com/embed/_uOORAsQ6nE" %}
 
 - A crash course in the economics of immigration
 
 {% include_relative _layouts/_elements/embedded_video.html
-embedded_video_url="https://www.youtube.com/embed/4XQXiCLzyAw?si=r64i910Rc3ehGM25" %}
+embedded_video_url="https://www.youtube.com/embed/4XQXiCLzyAw" %}
 
 - The case for immigration (by [Giovanni Peri](https://giovanniperi.ucdavis.edu/))
 
 {% include_relative _layouts/_elements/embedded_video.html
-embedded_video_url="https://www.youtube.com/embed/KWhnIy4obv8?si=1jD6ZLa8ppjUzdqX" %}
+embedded_video_url="https://www.youtube.com/embed/KWhnIy4obv8" %}
 
 #### Brain Breaks
 
@@ -159,17 +159,17 @@ embedded_video_url="https://www.youtube.com/embed/KWhnIy4obv8?si=1jD6ZLa8ppjUzdq
 - How Companies Design Products To Avoid Tariffs
 
 {% include_relative _layouts/_elements/embedded_video.html
-embedded_video_url="https://www.youtube.com/embed/tXCyKWbT5hQ?si=QzXLu-rVtsdU_Wzh" %}
+embedded_video_url="https://www.youtube.com/embed/tXCyKWbT5hQ" %}
 
 - Who were the winners and losers of the 2018 trade war?
 
 {% include_relative _layouts/_elements/embedded_video.html
-embedded_video_url="https://www.youtube.com/embed/-yDc3HXL41M?si=LgRXJzB4PwrNaWCD" %}
+embedded_video_url="https://www.youtube.com/embed/-yDc3HXL41M" %}
 
 - The Environmental Bias of Trade Policy
 
 {% include_relative _layouts/_elements/embedded_video.html
-embedded_video_url="https://www.youtube.com/embed/jA-JBIehaxQ?si=A-u8zcnFdKVX6nFH" %}
+embedded_video_url="https://www.youtube.com/embed/jA-JBIehaxQ" %}
 
 - China's Panda Diplomacy. One of the coolest examples of international trade is China’s use of pandas as a tool for
   encouraging international trade. While the pandas (and their eventual cubs) may come with a hefty fee, the majority of
@@ -178,12 +178,12 @@ embedded_video_url="https://www.youtube.com/embed/jA-JBIehaxQ?si=A-u8zcnFdKVX6nF
   Source: [Econ Media Library](https://econ.video/2018/04/16/vox-chinas-panda-diplomacy/#more-1934))
 
 {% include_relative _layouts/_elements/embedded_video.html
-embedded_video_url="https://www.youtube.com/embed/ZR2GpiDE4FI?si=bysZN-aXAueMllEj" %}
+embedded_video_url="https://www.youtube.com/embed/ZR2GpiDE4FI" %}
 
 - Banana (Free Trade Camila Cabello Havana Parody)
 
 {% include_relative _layouts/_elements/embedded_video.html
-embedded_video_url="https://www.youtube.com/embed/rw7PUrgU3N0?si=T4cxCZeCdICFUXpd" %}
+embedded_video_url="https://www.youtube.com/embed/rw7PUrgU3N0" %}
 
 #### Games
 
@@ -206,17 +206,17 @@ embedded_video_url="https://www.youtube.com/embed/rw7PUrgU3N0?si=T4cxCZeCdICFUXp
 - The Balance of Payments
 
 {% include_relative _layouts/_elements/embedded_video.html
-embedded_video_url="https://www.youtube.com/embed/y3bdt3Scmlg?si=qFLILVKEy1gMwUVy" %}
+embedded_video_url="https://www.youtube.com/embed/y3bdt3Scmlg" %}
 
 - The problem with global imbalances
 
 {% include_relative _layouts/_elements/embedded_video.html
-embedded_video_url="https://www.youtube.com/embed/eM9OxAdOT0Y?si=HGOUq1x4We1LyHUs" %}
+embedded_video_url="https://www.youtube.com/embed/eM9OxAdOT0Y" %}
 
 - Current Account Deficits: When to Act?
 
 {% include_relative _layouts/_elements/embedded_video.html
-embedded_video_url="https://www.youtube.com/embed/FrunOtAIEBM?si=9DI37ydxuMDLnRQ3" %}
+embedded_video_url="https://www.youtube.com/embed/FrunOtAIEBM" %}
 
 ### Foreign Exchange Rates <a name="foreign-exchange-rates"/>
 
@@ -225,18 +225,18 @@ embedded_video_url="https://www.youtube.com/embed/FrunOtAIEBM?si=9DI37ydxuMDLnRQ
 - Currency Exchange Rates and You
 
 {% include_relative _layouts/_elements/embedded_video.html
-embedded_video_url="https://www.youtube.com/embed/IYdt-16FoC4?si=PtyHQ2uEZeiH5ZT7" %}
+embedded_video_url="https://www.youtube.com/embed/IYdt-16FoC4" %}
 
 - Arbitrage
 
 {% include_relative _layouts/_elements/embedded_video.html
-embedded_video_url="https://www.youtube.com/embed/MhwrQpXQq4I?si=4f9RkETg7J3WEBOj" %}
+embedded_video_url="https://www.youtube.com/embed/MhwrQpXQq4I" %}
 
 - Eurotrip - Exchange Rate (source: [Economics Media Library](https://econ.video/)). Makes one think about a currency's
   purchasing power.
 
 {% include_relative _layouts/_elements/embedded_video.html
-embedded_video_url="https://www.youtube.com/embed/FvRn0rF687E?si=Yh5QUB1jaXZV94vO" %}
+embedded_video_url="https://www.youtube.com/embed/FvRn0rF687E" %}
 
 - [Weak Dollar](https://econ.video/2018/02/19/mcdonalds-weak-dollar/)
 
