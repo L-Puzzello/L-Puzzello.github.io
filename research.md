@@ -6,27 +6,27 @@ permalink: /research/
 
 #### Peer-Reviewed Publications
 
-Growth Volatility and Trade: Market Diversification vs. Production Specialization. _Journal of Economic Behavior and
-Organization_, 225, 252-271, 2024. (with [Adina Ardelean](https://sites.google.com/site/adinaardelean/home)
+Growth Volatility and Trade: Market Diversification vs. Production Specialization. _**Journal of Economic Behavior and
+Organization**_, 225, 252-271, 2024. (with [Adina Ardelean](https://sites.google.com/site/adinaardelean/home)
 and [Miguel León-Ledesma](https://sites.google.com/site/miguelleonledesmaspernonalsite/Home?authuser=0)) [[Full-text](https://www.sciencedirect.com/science/article/pii/S0167268124002592)] [[Online Appendix](https://drive.google.com/file/d/16WVEM0u7GcLDS5N-0cwncVutP_TrZlkh/view)] [[Code and data checks](https://l-puzzello.github.io/indstat-TPP/)]
 
-When are Instruments Generated from Geographic Characteristics in Bilateral Relationships Invalid? _Journal of Applied
-Econometrics_, 36 (4), 437-452, 2021. (with Sabine Deij
+When are Instruments Generated from Geographic Characteristics in Bilateral Relationships Invalid? _**Journal of Applied
+Econometrics**_, 36 (4), 437-452, 2021. (with Sabine Deij
 and [Jakob Madsen](https://research.monash.edu/en/persons/jakob-madsen)) [[Full-text and Online Appendix](https://drive.google.com/file/d/1SlxYVsxp5pMNTnA1a0CD9awABdIhWML0/view)]
 
-Winners and Losers from the €uro, _European Economic Review_, 108, 129-152, 2018. 
+Winners and Losers from the €uro, _**European Economic Review**_, 108, 129-152, 2018. 
 (with [Pedro Gomis-Porqueras](https://sites.google.com/site/pedrogomisporqueras/)). [https://doi.org/10.1016/j.euroecorev.2018.06.011].
 
-Trade and the Greenhouse Gas Emissions from International Freight Transport, _Journal of Environmental Economics and
-Management_, 65(1), 153-173, 2013.
+Trade and the Greenhouse Gas Emissions from International Freight Transport, _**Journal of Environmental Economics and
+Management**_, 65(1), 153-173, 2013.
 (with [Anca Cristea](https://www.ancacristea.com/), [David Hummels](https://krannert.purdue.edu/faculty/hummelsd/)
 and [Misak Avetisyan](https://www.depts.ttu.edu/economics/faculty/avetisyan/)) [[Full-text](https://drive.google.com/file/d/17FqR22eijTRtGDYJABnanasbZiTKPlBp/view)] [[Vox-EU column](https://cepr.org/voxeu/columns/trade-and-greenhouse-gas-emissions-how-important-international-transport)] [[Nature Climate Change research highlight](https://drive.google.com/file/d/12qqYPcqp0tCvHTZpjjeh1bfZIozLN9Da/view)]
 
-Taxes, Cigarette Consumption, and Smoking Intensity: Comment, _American Economic Review_, 102(4), 1751-1763, 2012.
+Taxes, Cigarette Consumption, and Smoking Intensity: Comment, _**American Economic Review**_, 102(4), 1751-1763, 2012.
 (with [Jason Abrevaya](https://liberalarts.utexas.edu/economics/faculty/ja8294))
 
-A Proportionality Assumption and Measurement Biases in the Factor Content of Trade, _Journal of International
-Economics_, 87(1), 105-111, 2012.
+A Proportionality Assumption and Measurement Biases in the Factor Content of Trade, _**Journal of International
+Economics**_, 87(1), 105-111, 2012.
 [[Full-text](https://drive.google.com/file/d/16dhgT9YIXMU-YLjeVK47j6becas3rdU0/view)] [[Appendix](https://drive.google.com/file/d/1SQS7cwLEJCYaQA-zqJ7XNy1QHf_1JYQC/view)]
 
 #### Work in Progress
@@ -47,7 +47,7 @@ Inward Foreign Investment Screening in Australia: Development and Implications
 (with [Phil McCalman](https://sites.google.com/site/pmccalman/), [Tania Voon](https://law.unimelb.edu.au/about/staff/tania-voon), and
 [Andrew Walter](https://findanexpert.unimelb.edu.au/profile/195100-andrew-walter)), in: Springer Studies in Law & Geoeconomics. Springer, Cham., 2024.
 
-Inward Foreign Investment Screening Targets China: Interdisciplinary Perspectives, _Cambridge International Law Journal_,
+Inward Foreign Investment Screening Targets China: Interdisciplinary Perspectives, _**Cambridge International Law Journal**_,
 12(1), 82-104 (with [Phil McCalman](https://sites.google.com/site/pmccalman/), [Tania Voon](https://law.unimelb.edu.au/about/staff/tania-voon), and
 [Andrew Walter](https://findanexpert.unimelb.edu.au/profile/195100-andrew-walter)), 2023.
 
