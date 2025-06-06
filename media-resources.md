@@ -10,14 +10,13 @@ the link between shared media and the material taught is, at times, a stretch. M
 to share this more widely in the hope it might save you some time. Resources appear below according to the following
 topics:
 
-- Globalisation
-- Trade and Technology
-- Trade and Resources (short-run)
-- Trade and Resources (long-run)
-- International Movement of Labour
-- Trade Policy
-- National and International Account
-- Foreign Exchange Rates
+1. [Globalisation](#globalisation)
+2. [Trade and Technology](#trade-and-technology)
+3. [Trade and Resources (short-run)](#trade-and-resources-short-run)
+4. [International Movement of Labour](#international-movement-of-labour)
+5. [Trade Policy](#trade-policy)
+6. [National and International Account](#national-and-international-account)
+7. [Foreign Exchange Rates](#foreign-exchange-rates)
 
 Scroll down if you are interested in one particular topic.
 
@@ -32,15 +31,6 @@ independently:
 - [STORYLINE](https://storylinegame.com/) (Games)
 
 If you have any feedback or additional media resources to share, please send me an email at laura.puzzello@monash.edu.
-
-## Resources: Table of Contents
-1. [Globalisation](#globalisation)
-2. [Trade and Technology](#trade-and-technology)
-3. [Trade and Resources (short-run)](#trade-and-resources-short-run)
-4. [International Movement of Labour](#international-movement-of-labour)
-5. [Trade Policy](#trade-policy)
-6. [National and International Account](#national-and-international-account)
-7. [Foreign Exchange Rates](#foreign-exchange-rates)
 
 ### Globalisation <a name="globalisation"/>
 
