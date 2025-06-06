@@ -1,4 +1,4 @@
-title: Laura Puzzello's Website
+title: Laura Puzzello's Webpage
 author:
   name: Laura Puzzello
   email: laura.puzzello@monash.edu
@@ -14,7 +14,7 @@ plugins:
 
 sass:
   quiet_deps: true
-  silence_deprecations: [import]
+  silence_deprecations: [ import ]
 
 minima:
   skin: auto
