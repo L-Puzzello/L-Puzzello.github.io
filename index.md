@@ -6,6 +6,11 @@ permalink: /
 
 ### About me
 
+{% include_relative _layouts/_elements/homepage-headshot.html
+image_src="/assets/img/laura-puzzello-headshot.jpeg" 
+alt_text="Laura Puzzello"
+%}
+
 I am an Associate Professor in the [Department of Economics](https://www.monash.edu/business/economics) at
 the [Monash Business School, Monash University](https://www.monash.edu/business).
 
