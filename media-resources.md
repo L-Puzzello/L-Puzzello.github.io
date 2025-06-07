@@ -111,8 +111,8 @@ I use the resources below in the week I cover the specific-factors model of trad
 {% include_relative _layouts/_elements/embedded_video.html
 embedded_video_url="https://www.youtube.com/embed/ZKMbuTV1Ne8" %}
 
-- Labour-abundant countries tend to use more labor-intensive techniques of production (
-  source: [Economics Media Library](https://econ.video/))
+- Labour-abundant countries tend to use more labor-intensive techniques of production
+  (source: [Economics Media Library](https://econ.video/))
 
 {% include_relative _layouts/_elements/embedded_video.html
 embedded_video_url="https://www.youtube.com/embed/0FjddxnLMmY" %}
@@ -164,8 +164,8 @@ embedded_video_url="https://www.youtube.com/embed/jA-JBIehaxQ" %}
 - China's Panda Diplomacy. One of the coolest examples of international trade is China’s use of pandas as a tool for
   encouraging international trade. While the pandas (and their eventual cubs) may come with a hefty fee, the majority of
   these pandas accompany major international trade deals that countries sign with China. This quick explainer video
-  outlines the way China uses pandas to their advantage. (
-  Source: [Econ Media Library](https://econ.video/2018/04/16/vox-chinas-panda-diplomacy/#more-1934))
+  outlines the way China uses pandas to their advantage.
+  (Source: [Econ Media Library](https://econ.video/2018/04/16/vox-chinas-panda-diplomacy/#more-1934))
 
 {% include_relative _layouts/_elements/embedded_video.html
 embedded_video_url="https://www.youtube.com/embed/ZR2GpiDE4FI" %}
