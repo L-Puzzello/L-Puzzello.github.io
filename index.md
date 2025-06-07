@@ -4,7 +4,7 @@ title: Home
 permalink: /
 ---
 
-### About me
+## About me
 
 {% include_relative _layouts/_elements/homepage-headshot.html
 image_src="/assets/img/laura-puzzello-headshot.jpeg" 
