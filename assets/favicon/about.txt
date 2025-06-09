@@ -1,6 +1,6 @@
 This favicon was generated using the following font:
 
-- Font Title: Urbanist
+- Font Title: Mukta
 - Font Author: undefined
-- Font Source: https://fonts.gstatic.com/s/urbanist/v17/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDSxkfFpOrS8SlKw.ttf
+- Font Source: https://fonts.gstatic.com/s/mukta/v16/iJWHBXyXfDDVXbFmi1ma-2HW7ZB_.ttf
 - Font License: undefined)
