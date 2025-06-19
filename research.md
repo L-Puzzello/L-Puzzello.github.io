@@ -12,7 +12,7 @@ and [Miguel León-Ledesma](https://sites.google.com/site/miguelleonledesmasperno
 
 When are Instruments Generated from Geographic Characteristics in Bilateral Relationships Invalid? _**Journal of Applied
 Econometrics**_, 36 (4), 437-452, 2021. (with Sabine Deij
-and [Jakob Madsen](https://research.monash.edu/en/persons/jakob-madsen)) [[Full-text and Online Appendix](https://drive.google.com/file/d/1SlxYVsxp5pMNTnA1a0CD9awABdIhWML0/view)]
+and [Jakob Madsen](https://research-repository.uwa.edu.au/en/persons/jakob-madsen)) [[Full-text and Online Appendix](https://drive.google.com/file/d/1SlxYVsxp5pMNTnA1a0CD9awABdIhWML0/view)]
 
 Winners and Losers from the €uro, _**European Economic Review**_, 108, 129-152, 2018. 
 (with [Pedro Gomis-Porqueras](https://sites.google.com/site/pedrogomisporqueras/)). [https://doi.org/10.1016/j.euroecorev.2018.06.011].
