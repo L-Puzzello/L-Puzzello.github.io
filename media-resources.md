@@ -207,6 +207,8 @@ embedded_video_url="https://www.youtube.com/embed/rw7PUrgU3N0" %}
 - [Trump's trade war timeline—an updated guide](https://www.piie.com/blogs/trade-and-investment-policy-watch/2018/trumps-trade-war-timeline-date-guide) (
   Peterson Institute for International Economics)
 
+- [Timeline of Trump’s tariffs 2.0](https://www.piie.com/blogs/realtime-economics/2025/trumps-trade-war-timeline-20-date-guide)
+
 ### National and International Account <a name="national-and-international-account"/>
 
 #### Clips
