@@ -18,7 +18,7 @@ My research rigorously pursues a broad set of policy-relevant questions primaril
 My work has been published in the _American Economic Review_, _Journal of International Economics_, and the _Journal of
 Applied Econometrics_, among other leading international journals.
 
-I am currently working on an _Australian Research Council Discovery Project_ that explores the legal, political and
+I am currently working on an [_Australian Research Council Discovery Project_](https://investmentscreening.github.io) that explores the legal, political and
 economic causes and consequences of investment screening policies primarily implemented on the basis of national
 security concerns.
 A different area of my current research focuses on accurately identifying the effect of trade policy, particularly
