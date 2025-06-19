@@ -4,11 +4,11 @@ title: Media Resources
 permalink: /media-resources/
 ---
 
-Due to online teaching, I incorporated most of the media resources below in my undergraduate international economics
-units for the first time in 2020. I received great feedback from my students regarding these resources, notwithstanding
-the link between shared media and the material taught is, at times, a stretch. My students’ enthusiasm has motivated me
-to share this more widely in the hope it might save you some time. Resources appear below according to the following
-topics:
+I first incorporated most of the media resources listed below into my undergraduate International Economics units in
+2020, during the shift to online teaching. Despite some of the links between the media and course material being a bit
+of a stretch at times, the student feedback was overwhelmingly positive. Their enthusiasm has encouraged me to share
+these more broadly, in case they might save you some time or inspire new ideas. The resources are grouped by topic as
+follows:
 
 1. [Globalisation](#globalisation)
 2. [Trade and Technology](#trade-and-technology)
