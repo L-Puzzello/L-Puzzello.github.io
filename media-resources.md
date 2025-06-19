@@ -13,10 +13,11 @@ topics:
 1. [Globalisation](#globalisation)
 2. [Trade and Technology](#trade-and-technology)
 3. [Trade and Resources (short-run)](#trade-and-resources-short-run)
-4. [International Movement of Labour](#international-movement-of-labour)
-5. [Trade Policy](#trade-policy)
-6. [National and International Account](#national-and-international-account)
-7. [Foreign Exchange Rates](#foreign-exchange-rates)
+4. [Trade and Resources (long-run)](#trade-and-resources-long-run)
+5. [International Movement of Labour](#international-movement-of-labour)
+6. [Trade Policy](#trade-policy)
+7. [National and International Account](#national-and-international-account)
+8. [Foreign Exchange Rates](#foreign-exchange-rates)
 
 Scroll down if you are interested in one particular topic.
 
@@ -103,6 +104,23 @@ embedded_video_url="https://www.youtube.com/embed/ui5ruDbpyy0" %}
 ### Trade and Resources (short-run) <a name="trade-and-resources-short-run"/>
 
 I use the resources below in the week I cover the specific-factors model of trade.
+
+#### Clips
+
+- Creative Destruction: Trade and Technology (introduces the idea trade makes some people worse off - from the
+  MRU [Globalisation Curriculum](https://learn.mru.org/lesson-plans/intro-globalization-unit/)
+
+{% include_relative _layouts/_elements/embedded_video.html
+embedded_video_url="https://www.youtube.com/embed/lH2kSCPyZQ8" %}
+
+- Globalization who cares?... You do
+
+{% include_relative _layouts/_elements/embedded_video.html
+embedded_video_url="https://www.youtube.com/embed/W8cYBDDcNoE" %}
+
+### Trade and Resources (long-run) <a name="trade-and-resources-long-run"/>
+
+I use the resources below in the week I cover the Heckscher-Ohlin model of trade.
 
 #### Clips
 
