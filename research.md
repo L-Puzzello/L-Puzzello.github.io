@@ -29,6 +29,10 @@ A Proportionality Assumption and Measurement Biases in the Factor Content of Tra
 Economics**_, 87(1), 105-111, 2012.
 [[Full-text](https://drive.google.com/file/d/16dhgT9YIXMU-YLjeVK47j6becas3rdU0/view)] [[Appendix](https://drive.google.com/file/d/1SQS7cwLEJCYaQA-zqJ7XNy1QHf_1JYQC/view)]
 
+#### Published Software Packages
+
+xmap: Transforming Data Between Statistical Classifications, January 2025, [10.32614/CRAN.package.xmap](https://cran.r-project.org/web/packages/xmap/index.html)
+
 #### Work in Progress
 
 FDI and Investment Screening Policy. 
