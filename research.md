@@ -216,7 +216,7 @@ and
 [Andrew Walter](https://findanexpert.unimelb.edu.au/profile/195100-andrew-walter)), 2023."
 
 content = "
-[[Link to our related Investment Treaty News piece](https://www.iisd.org/itn/2022/12/26/screening-of-chinese-investments-intensifies1-phillip-mccalman-laura-puzzello-tania-voon-andrew-walter/)] 
+[[Link to our related Investment Treaty News piece](https://www.iisd.org/itn/2022/12/26/screening-of-chinese-investments-intensifies1-phillip-mccalman-laura-puzzello-tania-voon-andrew-walter/)]
 
 _Abstract:_ Screening of inward foreign investment in numerous countries worldwide has heightened in recent
 years for a range of reasons, one of which is the volume of Chinese outward investment. Moulding screening policies
@@ -238,7 +238,7 @@ title = "Global Supply Chains and Natural Disasters: Implications for Internatio
 (with [Paul Raschky](https://praschky.github.io/)), in [Asian and
 Global Production Networks - Implications for trade, Incomes and Economic Vulnerability](https://www.e-elgar.com/shop/gbp/asia-and-global-production-networks-9781783472086.html).
 ADB and Edward Elgar
-Publishers, 2014. 
+Publishers, 2014.
 [[Full-text](https://www.adb.org/publications/asia-and-global-production-networks-implications-trade-incomes-and-economic-vulnerability)]"
 
 content = "_Excerpt:_ Every once in a while news reports show the disastrous impact of natural disasters on local
@@ -261,7 +261,7 @@ effect of disruptions to global supply chains due to natural disasters on countr
 
 title = "Some Evidence on the Nature and Growth of Input Trade
 (with [David Hummels](https://business.purdue.edu/faculty/hummelsd/)), in “Input Trade and Production Networks in
-East Asia”. Edward Elgar Publishers, 2010. 
+East Asia”. Edward Elgar Publishers, 2010.
 [[Full-text](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1061&context=ciberwp)]"
 
 content = "_Excerpt:_ We extend a standard model of international trade with intermediate inputs. This model, originally

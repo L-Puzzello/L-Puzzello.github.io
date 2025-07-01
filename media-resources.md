@@ -85,21 +85,21 @@ embedded_video_url="https://www.youtube.com/embed/cwx9fZOL81c" %}
 {% include_relative _layouts/_elements/embedded_video.html
 embedded_video_url="https://www.youtube.com/embed/ui5ruDbpyy0" %}
 
-- Click [here](https://econ.video/2017/10/02/channel-4-news-a-grocery-store-without-foreign-products/) to see what (
-  sudden) autarky would look like
+- Click [here](https://econ.video/2017/10/02/channel-4-news-a-grocery-store-without-foreign-products/) to see what
+  (sudden) autarky would look like
 
 #### Brain Breaks
 
 - Opportunity cost: [A Country Take on Opportunity Cost](http://www.econgonecountry.com/i-m-gonna-miss-her.html)
-- Production Possibility Frontier (
-  PPF): [A Country Take on the PPF](http://www.econgonecountry.com/rain-is-a-good-thing.html)
+- Production Possibility Frontier
+  (PPF): [A Country Take on the PPF](http://www.econgonecountry.com/rain-is-a-good-thing.html)
 
 #### Other Resources
 
 - [Ricardo’s difficult Idea](https://web.mit.edu/krugman/www/ricardo.htm) by Paul Krugman
 
-- [What wage inflation looks like](https://www.economist.com/free-exchange/2011/09/23/what-wage-inflation-looks-like) (
-  The Economist, 2011)
+- [What wage inflation looks like](https://www.economist.com/free-exchange/2011/09/23/what-wage-inflation-looks-like)
+  (The Economist, 2011)
 
 ### Trade and Resources (short-run) <a name="trade-and-resources-short-run"/>
 
@@ -195,7 +195,7 @@ embedded_video_url="https://www.youtube.com/embed/rw7PUrgU3N0" %}
 
 #### Games
 
-- Guess Game: CO2 Emissions Worldwide (1970-2018)- Does trade liberalisation explain some of the patterns?
+- Guess Game: CO2 Emissions Worldwide (1970-2018) — Does trade liberalisation explain some of the patterns?
   Play [here](https://play.storylinegame.com/play?quiz=CO2Emissions)
 
 - To dodge Trump's tariffs click [here](https://ig.ft.com/trump-china-tariffs/)
@@ -204,8 +204,8 @@ embedded_video_url="https://www.youtube.com/embed/rw7PUrgU3N0" %}
 
 #### Other Resources
 
-- [Trump's trade war timeline—an updated guide](https://www.piie.com/blogs/trade-and-investment-policy-watch/2018/trumps-trade-war-timeline-date-guide) (
-  Peterson Institute for International Economics)
+- [Trump's trade war timeline—an updated guide](https://www.piie.com/blogs/trade-and-investment-policy-watch/2018/trumps-trade-war-timeline-date-guide)
+  (Peterson Institute for International Economics)
 
 - [Timeline of Trump’s tariffs 2.0](https://www.piie.com/blogs/realtime-economics/2025/trumps-trade-war-timeline-20-date-guide)
 
