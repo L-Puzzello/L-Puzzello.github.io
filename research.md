@@ -46,7 +46,8 @@ instrument for trade openness."
 
 title = "Winners and Losers from the €uro, _**European Economic Review**_, 108, 129-152, 2018.
 (with [Pedro Gomis-Porqueras](https://sites.google.com/site/pedrogomisporqueras/)).
-[[https://doi.org/10.1016/j.euroecorev.2018.06.011](https://doi.org/10.1016/j.euroecorev.2018.06.011)]"
+[[https://doi.org/10.1016/j.euroecorev.2018.06.011](https://doi.org/10.1016/j.euroecorev.2018.06.011)]
+[[Full-Text](https://drive.google.com/file/d/1jH6CtzqoLazoB03T64Pyf7GtvbEmm-57/view)]"
 
 content = "_Abstract:_ Using the synthetic control method, this paper estimates the effect of having joined the monetary
 union on the income per capita of six early adopters of the euro. Our estimates suggest that while the income per capita
@@ -117,7 +118,7 @@ measured factor trade is small."
 {% include_relative _layouts/_elements/accordion.html
 
 title = "xmap: Transforming Data Between Statistical Classifications, January
-2025, [10.32614/CRAN.package.xmap](https://cran.r-project.org/web/packages/xmap/index.html)"
+2025, [[10.32614/CRAN.package.xmap](https://cran.r-project.org/web/packages/xmap/index.html)]"
 
 content = "_Description:_ Provides support for transformations of numeric aggregates between statistical
 classifications (e.g. occupation or industry categorisations) using the 'Crossmaps' framework. Implements classes for
@@ -214,7 +215,10 @@ _**Cambridge International Law Journal**_,
 and
 [Andrew Walter](https://findanexpert.unimelb.edu.au/profile/195100-andrew-walter)), 2023."
 
-content = "_Abstract:_ Screening of inward foreign investment in numerous countries worldwide has heightened in recent
+content = "
+[[Link to our related Investment Treaty News piece](https://www.iisd.org/itn/2022/12/26/screening-of-chinese-investments-intensifies1-phillip-mccalman-laura-puzzello-tania-voon-andrew-walter/)] 
+
+_Abstract:_ Screening of inward foreign investment in numerous countries worldwide has heightened in recent
 years for a range of reasons, one of which is the volume of Chinese outward investment. Moulding screening policies
 around concerns about Chinese investment has been a common pattern, particularly among developed countries and allies of
 the United States. The application of screening measures to Chinese investments in particular is also seen in recent
@@ -234,8 +238,8 @@ title = "Global Supply Chains and Natural Disasters: Implications for Internatio
 (with [Paul Raschky](https://praschky.github.io/)), in [Asian and
 Global Production Networks - Implications for trade, Incomes and Economic Vulnerability](https://www.e-elgar.com/shop/gbp/asia-and-global-production-networks-9781783472086.html).
 ADB and Edward Elgar
-Publishers,
-2014. [[Full-text](https://www.adb.org/publications/asia-and-global-production-networks-implications-trade-incomes-and-economic-vulnerability)]"
+Publishers, 2014. 
+[[Full-text](https://www.adb.org/publications/asia-and-global-production-networks-implications-trade-incomes-and-economic-vulnerability)]"
 
 content = "_Excerpt:_ Every once in a while news reports show the disastrous impact of natural disasters on local
 communities. In some cases, the losses in terms of property and lives are so big that economies struggle for months,
@@ -257,8 +261,8 @@ effect of disruptions to global supply chains due to natural disasters on countr
 
 title = "Some Evidence on the Nature and Growth of Input Trade
 (with [David Hummels](https://business.purdue.edu/faculty/hummelsd/)), in “Input Trade and Production Networks in
-East Asia”. Edward Elgar Publishers,
-2010. [[Full-text](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1061&context=ciberwp)]"
+East Asia”. Edward Elgar Publishers, 2010. 
+[[Full-text](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1061&context=ciberwp)]"
 
 content = "_Excerpt:_ We extend a standard model of international trade with intermediate inputs. This model, originally
 due to Krugman and Venables (1995, 1996), is widely used in literatures on international trade and agglomeration
