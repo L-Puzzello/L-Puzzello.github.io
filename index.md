@@ -7,7 +7,7 @@ permalink: /
 ## About me
 
 {% include_relative _layouts/_elements/homepage-headshot.html
-image_src="/assets/img/laura-puzzello-headshot.jpeg" 
+image_src="/assets/img/laura-puzzello-headshot.jpg" 
 alt_text="Laura Puzzello"
 %}
 
