@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-#### Peer-Reviewed Publications
+### Peer-Reviewed Publications
 
 {% include_relative _layouts/_elements/accordion.html
 
@@ -113,7 +113,7 @@ overstated. Biases generated on exported and imported factor services cancel eac
 measured factor trade is small."
 %}
 
-#### Published Software Packages
+### Published Software Packages
 
 {% include_relative _layouts/_elements/accordion.html
 
@@ -127,7 +127,7 @@ and applying crossmaps to transform data collected under the source classificati
 classification codes."
 %}
 
-#### Work in Progress
+### Work in Progress
 
 {% include_relative _layouts/_elements/accordion.html
 
@@ -180,7 +180,7 @@ title = "Conformr: tools for creating transparent and reproducible panel dataset
 content = ""
 %}
 
-#### Book Chapters and Interdisciplinary Work
+### Book Chapters and Interdisciplinary Work
 
 {% include_relative _layouts/_elements/accordion.html
 
