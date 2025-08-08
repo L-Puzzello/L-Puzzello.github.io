@@ -181,7 +181,7 @@ title = "Inward Foreign Investment Screening in Australia: Development and Impli
 [Tania Voon](https://law.unimelb.edu.au/about/staff/tania-voon),
 and
 [Andrew Walter](https://findanexpert.unimelb.edu.au/profile/195100-andrew-walter)), in: Springer Studies in Law &
-Geoeconomics. Springer, Cham., 2024."
+Geoeconomics. Springer, Cham., 2024. [doi:10.1007/17280_2024_33](https://link.springer.com/chapter/10.1007/17280_2024_33)"
 
 content = "_Abstract:_ This chapter outlines political, legal and economic aspects of Australia’s inward foreign
 investment screening regime, taking account of the historical development of the legislative framework and its practical
