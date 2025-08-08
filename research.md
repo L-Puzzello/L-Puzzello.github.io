@@ -163,14 +163,6 @@ suggest that when accounting for the zero revenues of NTMs, our TRI indices are 
 substantial effect on the ranking of countries’ trade restrictiveness."
 %}
 
-{% include_relative _layouts/_elements/accordion.html
-
-title = "The Changing Nature of Protection and its Consequences for Welfare: Evidence from Indonesia. (with Massimiliano
-Calì,
-Aufa Doarest, [James Lake](https://volweb.utk.edu/~jlake7/bio.html))"
-
-content = ""
-%}
 
 {% include_relative _layouts/_elements/accordion.html
 
