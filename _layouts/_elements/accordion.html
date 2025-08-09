@@ -16,19 +16,27 @@
     }
 
     ul.jekyll_accordion li label {
-        display: block;
+        display: flex;
+        align-items: center;
         cursor: pointer;
         padding: 0.75rem 2.4rem 0.75rem 0;
         margin: 0;
         word-break: break-word;
     }
 
+    ul.jekyll_accordion li .date_of_publication {
+        margin-right: 0.2rem;
+        color: #888;
+        font-size: 0.95em;
+        min-width: 4em;
+        flex-shrink: 0;
+        word-break: break-word;
+        white-space: normal;
+    }
+
     ul.jekyll_accordion li div {
         display: none;
         padding: 0 4rem 1.2rem 1.5rem;
-    }
-
-    ul.jekyll_accordion li input:checked + label {
     }
 
     ul.jekyll_accordion li input:checked + label + div {
@@ -51,8 +59,12 @@
     }
 </style>
 <ul class="jekyll_accordion">
-    <li><input id="{{ include.title }}" type="checkbox"/>
-        <label for="{{ include.title }}">{{ include.title | markdownify }}</label>
+    <li>
+        <input id="{{ include.title }}" type="checkbox"/>
+        <label for="{{ include.title }}">
+            <span class="date_of_publication">{{ include.date_of_publication | markdownify }}</span>
+            {{ include.title | markdownify }}
+        </label>
         <div>{{ include.content | markdownify }}</div>
     </li>
 </ul>

@@ -8,6 +8,8 @@ permalink: /research/
 
 {% include_relative _layouts/_elements/accordion.html
 
+date_of_publication = "2024"
+
 title = "Growth Volatility and Trade: Market Diversification vs. Production Specialization.
 _**Journal of Economic Behavior and
 Organization**_, 225, 252-271, 2024. (with [Adina Ardelean](https://sites.google.com/site/adinaardelean/home)
@@ -24,6 +26,8 @@ specialization increases volatility."
 %}
 
 {% include_relative _layouts/_elements/accordion.html
+
+date_of_publication = "2021"
 
 title = "When are Instruments Generated from Geographic Characteristics in Bilateral Relationships Invalid?
 _**Journal of Applied
@@ -44,6 +48,8 @@ instrument for trade openness."
 
 {% include_relative _layouts/_elements/accordion.html
 
+date_of_publication = "2018"
+
 title = "Winners and Losers from the €uro, _**European Economic Review**_, 108, 129-152, 2018.
 (with [Pedro Gomis-Porqueras](https://sites.google.com/site/pedrogomisporqueras/)).
 [[https://doi.org/10.1016/j.euroecorev.2018.06.011](https://doi.org/10.1016/j.euroecorev.2018.06.011)]
@@ -61,6 +67,8 @@ post-euro income losses of union members has been played by the integration of c
 %}
 
 {% include_relative _layouts/_elements/accordion.html
+
+date_of_publication = "2013"
 
 title = "Trade and the Greenhouse Gas Emissions from International Freight Transport,
 _**Journal of Environmental Economics and
@@ -81,6 +89,8 @@ growing much faster than the value of trade, due to trade shifting toward distan
 
 {% include_relative _layouts/_elements/accordion.html
 
+date_of_publication = "2012"
+
 title = "Taxes, Cigarette Consumption, and Smoking Intensity: Comment, _**American Economic Review**_, 102(4),
 1751-1763, 2012.
 (with [Jason Abrevaya](https://liberalarts.utexas.edu/economics/faculty/ja8294))"
@@ -95,6 +105,8 @@ compensatory behavior is found among subsamples of smokers."
 %}
 
 {% include_relative _layouts/_elements/accordion.html
+
+date_of_publication = "2012"
 
 title = "A Proportionality Assumption and Measurement Biases in the Factor Content of Trade, _**Journal of International
 Economics**_, 87(1), 105-111, 2012.
@@ -117,6 +129,8 @@ measured factor trade is small."
 
 {% include_relative _layouts/_elements/accordion.html
 
+date_of_publication = "2025"
+
 title = "xmap: Transforming Data Between Statistical Classifications, January
 2025, [[10.32614/CRAN.package.xmap](https://cran.r-project.org/web/packages/xmap/index.html)]"
 
@@ -130,6 +144,8 @@ classification codes."
 ### Work in Progress
 
 {% include_relative _layouts/_elements/accordion.html
+
+date_of_publication = ""
 
 title = "FDI and Investment Screening Policy. (with [Phil McCalman](https://sites.google.com/site/pmccalman/))"
 
@@ -148,6 +164,8 @@ pronounced, with bilateral IFDI changes for bystanders ranging from -50% to 7%."
 
 {% include_relative _layouts/_elements/accordion.html
 
+date_of_publication = ""
+
 title = "Trade Restrictiveness Indexes and Non-tariff Measures. (with Massimiliano Calì, Aufa
 Doarest, [James Lake](https://volweb.utk.edu/~jlake7/bio.html))"
 
@@ -163,8 +181,9 @@ suggest that when accounting for the zero revenues of NTMs, our TRI indices are 
 substantial effect on the ranking of countries’ trade restrictiveness."
 %}
 
-
 {% include_relative _layouts/_elements/accordion.html
+
+date_of_publication = ""
 
 title = "Conformr: tools for creating transparent and reproducible panel datasets.
 (with [Cynthia Huang](https://cynthiahqy.github.io/))"
@@ -175,6 +194,8 @@ content = ""
 ### Book Chapters and Interdisciplinary Work
 
 {% include_relative _layouts/_elements/accordion.html
+
+date_of_publication = "2024"
 
 title = "Inward Foreign Investment Screening in Australia: Development and Implications
 (with [Phil McCalman](https://sites.google.com/site/pmccalman/),
@@ -198,6 +219,8 @@ preferential trade agreement partners) is unclear."
 %}
 
 {% include_relative _layouts/_elements/accordion.html
+
+date_of_publication = "2023"
 
 title = "Inward Foreign Investment Screening Targets China: Interdisciplinary Perspectives,
 _**Cambridge International Law Journal**_,
@@ -226,6 +249,8 @@ the appeal for foreign investors."
 
 {% include_relative _layouts/_elements/accordion.html
 
+date_of_publication = "2014"
+
 title = "Global Supply Chains and Natural Disasters: Implications for International Trade
 (with [Paul Raschky](https://praschky.github.io/)), in [Asian and
 Global Production Networks - Implications for trade, Incomes and Economic Vulnerability](https://www.e-elgar.com/shop/gbp/asia-and-global-production-networks-9781783472086.html).
@@ -251,6 +276,8 @@ effect of disruptions to global supply chains due to natural disasters on countr
 
 {% include_relative _layouts/_elements/accordion.html
 
+date_of_publication = "2010"
+
 title = "Some Evidence on the Nature and Growth of Input Trade
 (with [David Hummels](https://business.purdue.edu/faculty/hummelsd/)), in “Input Trade and Production Networks in
 East Asia”. Edward Elgar Publishers, 2010.
@@ -268,4 +295,3 @@ intermediate international flows. We empirically test this prediction using a un
 Input-Output Tables. These tables allow us to examine country and industry level determinants of the sourcing of
 intermediate goods and the extent of vertical specialization."
 %}
-
