@@ -9,19 +9,24 @@
         border-top: 1px solid rgba(0, 0, 0, 0.20);
         list-style: none;
         margin-left: 0;
+        position: relative;
     }
 
     ul.jekyll_accordion li input {
         display: none;
     }
 
-    ul.jekyll_accordion li label {
+    ul.jekyll_accordion li label,
+    ul.jekyll_accordion li span.accordion_static {
         display: flex;
         align-items: center;
-        cursor: pointer;
         padding: 0.75rem 2.4rem 0.75rem 0;
         margin: 0;
         word-break: break-word;
+    }
+
+    ul.jekyll_accordion li label {
+        cursor: pointer;
     }
 
     ul.jekyll_accordion li .date_of_publication {
@@ -43,7 +48,7 @@
         display: block;
     }
 
-    ul.jekyll_accordion li label::before {
+    ul.jekyll_accordion li label.has-content::before {
         content: "+";
         font-weight: normal;
         font-size: 130%;
@@ -54,17 +59,25 @@
         transition: all 0.15s ease-in-out;
     }
 
-    ul.jekyll_accordion li input:checked + label::before {
+    ul.jekyll_accordion li input:checked + label.has-content::before {
         transform: rotate(-45deg);
     }
 </style>
+
 <ul class="jekyll_accordion">
     <li>
+        {% if include.content %}
         <input id="{{ include.title }}" type="checkbox"/>
-        <label for="{{ include.title }}">
+        <label class="has-content" for="{{ include.title }}">
             <span class="date_of_publication">{{ include.date_of_publication | markdownify }}</span>
-            {{ include.title | markdownify }}
+            <span class="accordion_title">{{ include.title | markdownify }}</span>
         </label>
         <div>{{ include.content | markdownify }}</div>
+        {% else %}
+        <span class="accordion_static">
+                <span class="date_of_publication">{{ include.date_of_publication | markdownify }}</span>
+                <span class="accordion_title">{{ include.title | markdownify }}</span>
+            </span>
+        {% endif %}
     </li>
 </ul>
