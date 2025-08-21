@@ -10,11 +10,11 @@ permalink: /research/
 
 date_of_publication = "2024"
 
-title= "Growth Volatility and Trade: Market Diversification vs. Production Specialization.
-_**Journal of Economic  Behavior and
-Organization**_, 225, 252-271, 2024. (with [Adina Ardelean](https://sites.google.com/site/adinaardelean/home)
-and [Miguel León-Ledesma](https://sites.google.com/site/miguelleonledesmaspernonalsite/Home?authuser=0)) )[[Full-text](https://www.sciencedirect.com/science/article/pii/S0167268124002592)] [[Online Appendix](https://drive.google.com/file/d/16WVEM0u7GcLDS5N-0cwncVutP_TrZlkh/view)] [[Code and data checks](https://l-puzzello.github.io/indstat-TPP/)]"
-
+title = "[A. Ardelean](https://sites.google.com/site/adinaardelean/home), [M. Leoń-Ledesma](https://sites.google.com/site/miguelleonledesmaspernonalsite/Home?authuser=0),
+and L. Puzzello. Growth Volatility and Trade: Market Diversification vs. Production Specialization.
+_**Journal of Economic Behavior and Organization**_, 225,
+252-271. [doi:10.1016/j.jebo.2024.07.001](https://doi.org/10.1016/j.jebo.2024.07.001)
+[[Full-text](https://www.sciencedirect.com/science/article/pii/S0167268124002592)] [[Online Appendix](https://drive.google.com/file/d/16WVEM0u7GcLDS5N-0cwncVutP_TrZlkh/view)] [[Code and data checks](https://l-puzzello.github.io/indstat-TPP/)]"
 
 content = "_Abstract:_ We analyze how trade affects aggregate volatility using a multi-country, multi-industry, and
 multi-destination framework. We decompose aggregate output growth risk into destination risk, origin risk, and
