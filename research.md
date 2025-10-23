@@ -30,10 +30,8 @@ specialization increases volatility."
 
 date_of_publication = "2021"
 
-title = "When are Instruments Generated from Geographic Characteristics in Bilateral Relationships Invalid?
-_**Journal of Applied
-Econometrics**_, 36 (4), 437-452, 2021. (with Sabine Deij
-and [Jakob Madsen](https://research-repository.uwa.edu.au/en/persons/jakob-madsen)) [[Full-text and Online Appendix](https://drive.google.com/file/d/1SlxYVsxp5pMNTnA1a0CD9awABdIhWML0/view)]"
+title = "S. Deij, [J. Madsen](https://research-repository.uwa.edu.au/en/persons/jakob-madsen), and L. Puzzello. When are Instruments Generated from Geographic Characteristics in Bilateral Relationships Invalid?
+_**Journal of Applied Econometrics**_, 36 (4), 437-452. [doi:10.1002/jae.2815](https://onlinelibrary.wiley.com/doi/10.1002/jae.2815) [[Full-text and Online Appendix](https://drive.google.com/file/d/1SlxYVsxp5pMNTnA1a0CD9awABdIhWML0/view)]"
 
 content = "_Abstract:_ In their highly influential paper, ‘Does Trade Cause Growth?’, Frankel and Romer estimate a trade
 equation to predict bilateral trade shares, which are in turn aggregated to construct an instrument for trade openness
@@ -51,9 +49,8 @@ instrument for trade openness."
 
 date_of_publication = "2018"
 
-title = "Winners and Losers from the €uro, _**European Economic Review**_, 108, 129-152, 2018.
-(with [Pedro Gomis-Porqueras](https://sites.google.com/site/pedrogomisporqueras/)).
-[[https://doi.org/10.1016/j.euroecorev.2018.06.011](https://doi.org/10.1016/j.euroecorev.2018.06.011)]
+title = " L. Puzzello, and [P. Gomis-Porqueras](https://sites.google.com/site/pedrogomisporqueras/). Winners and Losers from the €uro, _**European Economic Review**_, 108, 129-152.
+[https://doi.org/10.1016/j.euroecorev.2018.06.011](https://doi.org/10.1016/j.euroecorev.2018.06.011)
 [[Full-Text](https://drive.google.com/file/d/1jH6CtzqoLazoB03T64Pyf7GtvbEmm-57/view)]"
 
 content = "_Abstract:_ Using the synthetic control method, this paper estimates the effect of having joined the monetary
@@ -71,11 +68,9 @@ post-euro income losses of union members has been played by the integration of c
 
 date_of_publication = "2013"
 
-title = "Trade and the Greenhouse Gas Emissions from International Freight Transport,
+title = "[A. Cristea](https://www.ancacristea.com/), [D. Hummels](https://krannert.purdue.edu/faculty/hummelsd/), L. Puzzello, and [M. Avetisyan](https://www.depts.ttu.edu/economics/faculty/avetisyan/) Trade and the Greenhouse Gas Emissions from International Freight Transport,
 _**Journal of Environmental Economics and
-Management**_, 65(1), 153-173, 2013.
-(with [Anca Cristea](https://www.ancacristea.com/), [David Hummels](https://krannert.purdue.edu/faculty/hummelsd/)
-and [Misak Avetisyan](https://www.depts.ttu.edu/economics/faculty/avetisyan/)) [[Full-text](https://drive.google.com/file/d/17FqR22eijTRtGDYJABnanasbZiTKPlBp/view)] [[Vox-EU column](https://cepr.org/voxeu/columns/trade-and-greenhouse-gas-emissions-how-important-international-transport)] [[Nature Climate Change research highlight](https://drive.google.com/file/d/12qqYPcqp0tCvHTZpjjeh1bfZIozLN9Da/view)]"
+Management**_, 65(1), 153-173. [[Full-text](https://drive.google.com/file/d/17FqR22eijTRtGDYJABnanasbZiTKPlBp/view)] [[Vox-EU column](https://cepr.org/voxeu/columns/trade-and-greenhouse-gas-emissions-how-important-international-transport)] [[Nature Climate Change research highlight](https://drive.google.com/file/d/12qqYPcqp0tCvHTZpjjeh1bfZIozLN9Da/view)]"
 
 content = "_Abstract:_ We collect extensive data on worldwide trade by transportation mode and use this to provide
 detailed comparisons of the greenhouse gas emissions associated with output versus international transportation of
@@ -92,9 +87,8 @@ growing much faster than the value of trade, due to trade shifting toward distan
 
 date_of_publication = "2012"
 
-title = "Taxes, Cigarette Consumption, and Smoking Intensity: Comment, _**American Economic Review**_, 102(4),
-1751-1763, 2012.
-(with [Jason Abrevaya](https://liberalarts.utexas.edu/economics/faculty/ja8294))"
+title = "[J. Abrevaya](https://liberalarts.utexas.edu/economics/faculty/ja8294), and L. Puzzello. Taxes, Cigarette Consumption, and Smoking Intensity: Comment, _**American Economic Review**_, 102(4),
+1751-1763. [doi:10.1257/aer.102.4.1751](https://www.aeaweb.org/articles?id=10.1257/aer.102.4.1751) [[Full-text](https://drive.google.com/file/d/1towe-5uCEr-lKR9W2ICmst5JR_Hmth68/view?usp=share_link)] [[Supplementary Material](https://drive.google.com/file/d/1riOERlBFxsuSFYEnwlH9Fw3ZvgFvwNMF/view?usp=sharing)]"
 
 content = "_Abstract:_ This paper re-examines Adda and Cornaglia's (2006) evidence on the compensatory behavior of
 smokers who, in face of higher taxes, are found to reduce their consumption of cigarettes while maintaining their
@@ -109,8 +103,8 @@ compensatory behavior is found among subsamples of smokers."
 
 date_of_publication = "2012"
 
-title = "A Proportionality Assumption and Measurement Biases in the Factor Content of Trade, _**Journal of International
-Economics**_, 87(1), 105-111, 2012.
+title = "L. Puzzello. A Proportionality Assumption and Measurement Biases in the Factor Content of Trade, _**Journal of International
+Economics**_, 87(1), 105-111.[doi:10.1016/j.jinteco.2011.11.009](https://www.sciencedirect.com/science/article/abs/pii/S0022199611001474?via%3Dihub)
 [[Full-text](https://drive.google.com/file/d/16dhgT9YIXMU-YLjeVK47j6becas3rdU0/view)] [[Appendix](https://drive.google.com/file/d/1SQS7cwLEJCYaQA-zqJ7XNy1QHf_1JYQC/view)]"
 
 content = "_Abstract:_ This paper revisits Trefler and Zhu’s (2005, 2010) (TZ) empirical examination of the factor
@@ -132,8 +126,7 @@ measured factor trade is small."
 
 date_of_publication = "2025"
 
-title = "xmap: Transforming Data Between Statistical Classifications, January
-2025, [[10.32614/CRAN.package.xmap](https://cran.r-project.org/web/packages/xmap/index.html)]"
+title = "[C. Huang](https://cynthiahqy.github.io), and L. Puzzello. xmap: Transforming Data Between Statistical Classifications, [[10.32614/CRAN.package.xmap](https://cran.r-project.org/web/packages/xmap/index.html)]"
 
 content = "_Description:_ Provides support for transformations of numeric aggregates between statistical
 classifications (e.g. occupation or industry categorisations) using the 'Crossmaps' framework. Implements classes for
@@ -148,7 +141,7 @@ classification codes."
 
 date_of_publication = ""
 
-title = "FDI and Investment Screening Policy. (with [Phil McCalman](https://sites.google.com/site/pmccalman/))"
+title = "[P. McCalman](https://sites.google.com/site/pmccalman/), and L. Puzzello. FDI and Investment Screening Policy."
 
 content = "_Abstract:_ Efforts to restrict Inward FDI (IFDI) have traditionally been modest. Recently there has been a
 dramatic increase in the number of countries screening IFDI. The costs imposed by screening raise concerns about the
@@ -167,8 +160,8 @@ pronounced, with bilateral IFDI changes for bystanders ranging from -50% to 7%."
 
 date_of_publication = ""
 
-title = "Trade Restrictiveness Indexes and Non-tariff Measures. (with Massimiliano Calì, Aufa
-Doarest, [James Lake](https://volweb.utk.edu/~jlake7/bio.html))"
+title = " Massimiliano Calì, Aufa
+Doarest, [James Lake](https://volweb.utk.edu/~jlake7/bio.html), and L. Puzzello. Trade Restrictiveness Indexes and Non-tariff Measures."
 
 content = "_Abstract:_ Measures of trade restrictiveness are key to evaluate trade policy and design trade reforms. Kee,
 Nicita and Olarreaga (KNO, 2009) propose a Trade Restrictiveness Index (TRI) grounded in theory that accounts for
@@ -186,8 +179,7 @@ substantial effect on the ranking of countries’ trade restrictiveness."
 
 date_of_publication = ""
 
-title = "Conformr: tools for creating transparent and reproducible panel datasets.
-(with [Cynthia Huang](https://cynthiahqy.github.io/))"
+title = "[C. Huang](https://cynthiahqy.github.io/), and L. Puzzello. Conformr: tools for creating transparent and reproducible panel datasets."
 
 %}
 
@@ -197,13 +189,11 @@ title = "Conformr: tools for creating transparent and reproducible panel dataset
 
 date_of_publication = "2024"
 
-title = "Inward Foreign Investment Screening in Australia: Development and Implications
-(with [Phil McCalman](https://sites.google.com/site/pmccalman/),
-[Tania Voon](https://law.unimelb.edu.au/about/staff/tania-voon),
-and
-[Andrew Walter](https://findanexpert.unimelb.edu.au/profile/195100-andrew-walter)), in: Springer Studies in Law &
-Geoeconomics. Springer, Cham., 2024.
-doi:[10.1007/17280_2024_33](https://link.springer.com/chapter/10.1007/17280_2024_33)"
+title = "[P. McCalman](https://sites.google.com/site/pmccalman/),
+[T. Voon](https://law.unimelb.edu.au/about/staff/tania-voon), L. Puzzello, and 
+[A. Walter](https://findanexpert.unimelb.edu.au/profile/195100-andrew-walter). Inward Foreign Investment Screening in Australia: Development and Implications, in: Springer Studies in Law &
+Geoeconomics. Springer, Cham..
+[doi:10.1007/17280_2024_33](https://link.springer.com/chapter/10.1007/17280_2024_33)"
 
 content = "_Abstract:_ This chapter outlines political, legal and economic aspects of Australia’s inward foreign
 investment screening regime, taking account of the historical development of the legislative framework and its practical
@@ -223,13 +213,11 @@ preferential trade agreement partners) is unclear."
 
 date_of_publication = "2023"
 
-title = "Inward Foreign Investment Screening Targets China: Interdisciplinary Perspectives,
+title = "[P. McCalman](https://sites.google.com/site/pmccalman/),
+[T. Voon](https://law.unimelb.edu.au/about/staff/tania-voon), L. Puzzello, and 
+[A. Walter](https://findanexpert.unimelb.edu.au/profile/195100-andrew-walter). Inward Foreign Investment Screening Targets China: Interdisciplinary Perspectives.
 _**Cambridge International Law Journal**_,
-12(1), 82-104
-(with [Phil McCalman](https://sites.google.com/site/pmccalman/),
-[Tania Voon](https://law.unimelb.edu.au/about/staff/tania-voon),
-and
-[Andrew Walter](https://findanexpert.unimelb.edu.au/profile/195100-andrew-walter)), 2023."
+12(1), 82-104."
 
 content = "
 [[Link to our related Investment Treaty News piece](https://www.iisd.org/itn/2022/12/26/screening-of-chinese-investments-intensifies1-phillip-mccalman-laura-puzzello-tania-voon-andrew-walter/)]
@@ -252,11 +240,10 @@ the appeal for foreign investors."
 
 date_of_publication = "2014"
 
-title = "Global Supply Chains and Natural Disasters: Implications for International Trade
-(with [Paul Raschky](https://praschky.github.io/)), in [Asian and
+title = "L. Puzzello, and [Paul Raschky](https://praschky.github.io/). Global Supply Chains and Natural Disasters: Implications for International Trade, in [Asian and
 Global Production Networks - Implications for trade, Incomes and Economic Vulnerability](https://www.e-elgar.com/shop/gbp/asia-and-global-production-networks-9781783472086.html).
 ADB and Edward Elgar
-Publishers, 2014.
+Publishers.
 [[Full-text](https://www.adb.org/publications/asia-and-global-production-networks-implications-trade-incomes-and-economic-vulnerability)]"
 
 content = "_Excerpt:_ Every once in a while news reports show the disastrous impact of natural disasters on local
@@ -279,9 +266,8 @@ effect of disruptions to global supply chains due to natural disasters on countr
 
 date_of_publication = "2010"
 
-title = "Some Evidence on the Nature and Growth of Input Trade
-(with [David Hummels](https://business.purdue.edu/faculty/hummelsd/)), in “Input Trade and Production Networks in
-East Asia”. Edward Elgar Publishers, 2010.
+title = "[D. Hummels](https://business.purdue.edu/faculty/hummelsd/), and L. Puzzello. Some Evidence on the Nature and Growth of Input Trade, in “Input Trade and Production Networks in
+East Asia”. Edward Elgar Publishers.
 [[Full-text](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1061&context=ciberwp)]"
 
 content = "_Excerpt:_ We extend a standard model of international trade with intermediate inputs. This model, originally
